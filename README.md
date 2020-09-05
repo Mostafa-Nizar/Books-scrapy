@@ -1,4 +1,4 @@
-# bookstoscrape
+# books scrapy
 i am scraping a multiple pages of books form bookstoscrape.com
 ## How to use my app
 - Open bookstoscrape Folder
